@@ -15,6 +15,7 @@ Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awe
 5. [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
 6. [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-el.md)
 7. [Italian Cheat Sheet](https:://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-it.md)
+
 Git cheat sheet saves you from learning all the commands by heart.
 
 Be free to contribute, update the grammar mistakes. You are also free to add your language file.
